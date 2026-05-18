@@ -1,5 +1,3 @@
-version: "3.8"
-
 services:
 
   # ── Go Streak App (Nginx serving the built SPA) ──────────────────
